@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LeeRecyclerviewDemo</string>
+
+    <string name="menu_text_1">Recyclerview</string>
+    <string name="menu_text_2">DialogFragment</string>
+    <string name="menu_text_3">AlertDialog_V7</string>
+
 </resources>
